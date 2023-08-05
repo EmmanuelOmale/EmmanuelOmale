@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelomale&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelomale" /> </p>
 
-<p align="left"> <a href="https://twitter.com/a1omale" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/a1omale?logo=twitter&style=for-the-badge" alt="https://twitter.com/a1omale" /></a> </p>
-
 - 🔭 I’m currently working on **an E-comm store**
 
 - 🌱 I’m currently learning **Angular and Vue**
