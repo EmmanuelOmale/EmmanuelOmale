@@ -1,9 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGhpX1UQTFc8Q/profile-displaybackgroundimage-shrink_350_1400/0/1697357374737?e=1703721600&v=beta&t=MAK8R3vmX6HdAueJGXQ60GfEEBv66_a3Ac3h1LwuV5A)
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
-*<img align="right" alt="coding" width="400" src="*https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f*">*
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=emmanuelomale&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/D4D16AQGhpX1UQTFc8Q/profile-displaybackgroundimage-shrink_350_1400/0/1697357374737?e=1703116800&v=beta&t=0HihkOc0u52ysnXgTPKfO6Bd-p0UzdSyoAnNgkAhAMQ)" alt="emmanuelomale" /> </p>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **an E-comm store**
 
