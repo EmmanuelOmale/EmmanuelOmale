@@ -1,17 +1,10 @@
-# Welcome to My GitHub Profile
+# Welcome to My Profile
 
 ## About Me
-👋 Hi, I'm Emmanuel - a passionate Software Engineer
-
-## Current Projects
-- 🔭 Working on: E-commerce Store
-- 🌱 Learning: Angular and Vue
-
-## Looking For
-- 👯 Collaborators: Doctors' Konnect project
+👋 Hi, I'm Omale - a passionate Software Engineer
 
 ## Expertise
-- 💬 React enthusiast
+- 💬 Dotnet enthusiast
 - 📫 Reach me: eomale710@gmail.com
 
 ## Connect With Me
