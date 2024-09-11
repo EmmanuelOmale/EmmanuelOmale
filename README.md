@@ -20,3 +20,6 @@
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelomale&layout=compact&theme=dracula)](https://github.com/emmanuelomale/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=emmanuelomale&theme=dark)](https://git.io/streak-stats)
+
+👨‍💻 Pull Requests:
+[![PRs](https://img.shields.io/badge/-Pull%20Requests-3498db.svg)](https://github.com/emmanuelomale/pulls)
