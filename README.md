@@ -14,7 +14,7 @@ Hi, I'm **Omale**, a Software Engineer passionate about building scalable and se
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omalea1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omale/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a1omale)  
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22334090/omale-emmanuel-abraham)  
 
@@ -32,7 +32,7 @@ Hi, I'm **Omale**, a Software Engineer passionate about building scalable and se
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelomale&layout=compact&theme=dracula)](https://github.com/emmanuelomale/github-readme-stats)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=emmanuelomale&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emmanuelomale&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -45,4 +45,3 @@ Hi, I'm **Omale**, a Software Engineer passionate about building scalable and se
 
 ## ⚡ Fun Fact
 I enjoy **ping pong**, exploring **new tech trends**, and coding **clean, production-ready software**.
-
